@@ -1,3 +1,9 @@
+# Cached by Zig
 .zig-cache/
+
+# Output files by Zig
 zig-out/
 *.o
+
+# External dependencies by Zig
+zig-pkg/
